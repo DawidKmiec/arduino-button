@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/mathtest.dir/tests/mathtest.c.o -o mathtest  _deps/unity-build/libunity.a 

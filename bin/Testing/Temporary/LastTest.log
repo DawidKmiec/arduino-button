@@ -1,0 +1,18 @@
+Start testing: Jul 16 17:43 BST
+----------------------------------------------------------
+1/1 Testing: mathtest
+1/1 Test: mathtest
+Command: "/home/dkmiec/apps/game-dev-template/bin/tests/mathtest"
+Directory: /home/dkmiec/apps/game-dev-template/bin/tests
+"mathtest" start time: Jul 16 17:43 BST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"mathtest" end time: Jul 16 17:43 BST
+"mathtest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 16 17:43 BST
