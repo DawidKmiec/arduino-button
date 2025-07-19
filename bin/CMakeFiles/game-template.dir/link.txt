@@ -1,1 +1,0 @@
-/usr/bin/cc -g "CMakeFiles/game-template.dir/main.c.o" -o game-template  libsrc.a 
